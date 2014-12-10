@@ -7,7 +7,7 @@ category: beginner
 published: true
 ---
 
-Bevezetés a JOSM hasznákatába
+Bevezetés a JOSM használatába
 =============================
 
 Ebben a fejezetben a JOSM, a Java OpenStreetMap-szerkesztő telepítését nézzük meg 
@@ -32,7 +32,7 @@ JOSM letöltése
 
   ![JOSM website][]
 
-- Ha Windowsos van, kattints a Windows telepítő letöltésére.
+- Ha Windowsod van, kattints a Windows telepítő letöltésére.
 
   ![Windows installer][]
 
@@ -44,23 +44,19 @@ JOSM letöltése
 JOSM telepítése
 ------------
 
->  You may have problems installing JOSM if Java is not already
->  installed on your computer. If you have problems in this section,
->  try downloading and installing Java. You can download it here:
+>  Problémád lehet a JOSM telepítésével, ha még nincs Java a számítógépeden.
+>  Ha problémába ütközöl, töltsd le és telepítsd a Javát innen:
 >  [http://www.java.com/en/download/](http://www.java.com/en/download/)
 
-- Find the JOSM install file on your computer. Double-click it to
-  begin setup.
-- Click ‘OK’, ‘Next’, ‘I Agree’, and ‘Install’. When the installation
-  is complete, click ‘Finish’ to launch JOSM for the first time.
-  Later, when you want to start JOSM, you can do so by clicking on the
-  Start Menu in the lower left corner of your computer, and clicking
-  the program JOSM.
-- You may see a window pop up that asks if you want to update the
-  software.  You don’t need to update it since it is new.  Press the
-  button that says “Cancel.”  If you don’t ever want to see this
-  message again, check the box at the bottom before pressing “Cancel.”
-- When JOSM starts, it will look something like this:
+- Keresd meg a JOSM-telepítőt a gépeden. Kattints rá  duplán.a telepítés elindításához.
+- Kövesd a telepítő utasításait. Az installáció végén kattints a
+  Befejezésre a JOSM elindításához.
+  Később, ha el akarod indítani a JOSM-et, a Start Menüből meg tudod tenni.
+- Az elején felugorhat egy ablak, amely felkínálja a szoftver frissítését.
+  Erre nincs még szükség, hisz a legfrissebbet töltötted le.
+  Kattintsd a Mégse-gombra. Ha többet nem akarod látni ezt az ablakot,
+  pipáld ki az alján lévő dobozt, mielőtt a Mégsére kattintasz.
+- Amikor elindul a JOSM, valahogy így fog kinézni:
 
   ![JOSM splash page][]
 
