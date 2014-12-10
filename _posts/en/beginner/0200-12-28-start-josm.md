@@ -7,43 +7,41 @@ category: beginner
 published: true
 ---
 
-Getting Started with JOSM
+Bevezetés a JOSM hasznákatába
 =============================
 
-In this chapter we will learn step by step how to download and install
-JOSM, the Java OpenStreetMap editor. We will change some of the settings
-in JOSM to make it easier to use. Then we will open a sample map and
-learn some of the basic operations of the software. Remember in the
-introduction chapter when we asked you to draw a map of your town or
-village? We will conclude this chapter by drawing your map again, this
-time digitally. After this you should have a good understanding of how
-to draw maps in JOSM.
+Ebben a fejezetben a JOSM, a Java OpenStreetMap-szerkesztő telepítését nézzük meg 
+lépésenként. Átállítunk néhány beállítást, hogy könnyebb legyen használni.
+Ezután megnyitunk egy mintatérképet, és megtanuljuk az alap szerkesztési lehetőségeket.
+Emlékszel, amikor a bevezetésben megkértünk, rajzold le a falud vagy városod térképét?
+A fejezet végén őjra lerajzoljuk ezt a térképet, ezúttal digitálisan.
+Miután végeztél, egy alapos áttekintéssel fogsz rendelkezni a
+JOSM-es térképszerkesztésről.
 
-Download JOSM
+JOSM letöltése
 -------------
 
-- If you have a copy of JOSM on a CD or usb flash drive, you can skip
-  to the next section, Install JOSM.
-- If you don’t have JOSM already, or want the newest version, open
-  your web browser - this may be Firefox, Chrome, Opera, or Internet
-  Explorer.
-- In the address bar at the top of the window, enter the following
-  text and press Enter: [josm.openstreetmap.de](http://josm.openstreetmap.de)
-- You can also find the JOSM website by searching the internet for “JOSM”.
-- The website should look something like this:
+- Ha van egy példányod  a JOSM-ből CD-n vagy usb drive-on,
+  akkor ugorj a JOSM telepítése részhez.
+- Ha nincs még JOSM-ed, vagy a legfrissebbet szeretnéd beszerezni,
+  nyisd meg a böngésződet.
+- Írd be a következőt az ablak tetején lévő címsorba,
+  majd nyomj Entert: [josm.openstreetmap.de](http://josm.openstreetmap.de)
+- Úgy is megtalálhatod a JOSM oldalát, ha rákeresel arra, hogy "JOSM".
+- A weboldal valahogy így fog kinézni:
 
   ![JOSM website][]
 
-- If you have Windows installed on your computer, click “Windows Installer” to download JOSM.
+- Ha Windowsos van, kattints a Windows telepítő letöltésére.
 
   ![Windows installer][]
 
-- If you have a different operating
-  system, click on the link for your system. Your download should
-  begin. In this chapter we will assume that you are using Windows,
-  but the instructions are similar for other operating systems.
+- Ha más operációs rendszered van, kattints az annak megfelelő linkre
+  Hamarosan elindul a letöltésed. Ebben a fejezetben abból indulunk ki,
+  hogy Windowst használsz, de a lépések hasonlóak a többi operációs
+  rendszernél is.
 
-Install JOSM
+JOSM telepítése
 ------------
 
 >  You may have problems installing JOSM if Java is not already
