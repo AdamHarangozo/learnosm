@@ -60,31 +60,30 @@ JOSM telepítése
 
   ![JOSM splash page][]
 
-JOSM Preferences
+JOSM beállítások
 --------------------
 
-There are many different settings that you can customize in JOSM. 
-One setting that you may want to adjust is the language. JOSM has
-been translated into numerous languages, and you may prefer to
-work in a different one.
+A JOSM-ben sok különböző beállítást lehet személyre szabni.
+Az egyik, amit érdemes bállítani, az a nyelv. A JOSM-et
+számos nyelvre fordították le, és lehet, hogy te nem az alapértelmezettet
+szeretnéd használni.
 
-- To access the Preferences window, click Edit -\> Preferences.
+- A Beállítások ablak eléréséhez kattints a Szerkesztés -\> Beállítások opcióra.
 
   ![Preferences window][]
 
-- On the left side, click the icon that looks like a paint can and
-  paint brush.
-- At the top of the window, click the tab that says “Look and Feel”.
-- Choose your language in the dropdown box next to the word
-  “Language”.
+- A bal oldalon kattints a festéket és ecsetet ábrázoló ikonra..
+- Az ablak tetején kattints a "Look and Feel" nevű fülre.
+- Válaszd ki a használni kívánt nyelvet a "Nyelv" melletti legördülő 
+  menüből.
   
   ![Look and feel][]
 
-- Click OK.
-- You need to restart JOSM to save your settings. Click “File” in the upper
-  left corner, and Click “Restart” near the bottom of the menu.
+- Kattints az  Okéra.
+- Újra kell indítanod a JOSM-et a beállítások elmentéséhez. Kattints a Fájl menüre
+  a bal felső sarokban, és választ ki az Újraindítást.
 
-Learn Basic Drawing with JOSM
+Rajzolási alapok JOSM-ben
 -----------------------------
 
 - Now let’s open up a sample OSM file which we will use to learn the
