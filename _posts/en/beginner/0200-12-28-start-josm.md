@@ -86,41 +86,38 @@ szeretnéd használni.
 Rajzolási alapok JOSM-ben
 -----------------------------
 
-- Now let’s open up a sample OSM file which we will use to learn the
-  basic ways to draw maps with JOSM. Note that this map is not real,
-  in that it is not a real map of a real place, so we will not save it
-  on OpenStreetMap.
-- Download the file here: [sample.osm](/files/sample.osm)
-- Now let’s open the sample map file in JOSM. Click the
-  “Open” button in the upper left.
+- Most nyissunk ki egy mint OSM-fájlt, amin megtanulhatunk rajzolni.
+  Ne feledjük, hogy ez nem egy igazi térkép, nem is egy valós helyet
+  ábrázol, úgyhogy nem mentjük el az OpenStreetMapbe.
+- Innen tölthető le a fájl: [sample.osm](/files/sample.osm)
+- Nyissuk meg a mintafájlt JOSM-ben. Kattintsunk a
+  "Megnyitás" gombra a bal felső részen. 
 
   ![Open file][]
 
-- Find the file **sample.osm**. It is probably in your Downloads folder,
-  unless you saved it somewhere else. Click on it, and then click “Open”.
-- You should now see a sample map that looks like this:
+- Keressük meg a **sample.osm**nevű fájlt. Valószínáleg a Letöltések mappában van,
+  kivéve, ha máshova mentetted. Kattints rá, majd menj a "Megnyitásra".
+- Egy ilyen mintatérképet kellene látnod:
 
   ![Sample file][]
 
-### Basic Operations
+### Alapműveletek
 
-- To move the map left or right, up or down, hold your right mouse
-  button down, and move your mouse.
-- There are several ways to zoom in and out of the map. If you have a
-  mouse, you can use your scroll wheel to zoom in and out. If you are
-  using a laptop and don’t have a mouse, you can zoom in and out using
-  the scale bar in the upper left of the map window. Drag the bar left
-  and right by holding your left mouse down and moving the bar left or
-  right with your mouse.
+- A jobbra-balra vagy fel-le mozgatáshoz, tartsuk lenyomva a jobb
+  egérgombot, és mozgassuk az egeret.
+- Több módon is tudunk nagyítani. Ha van egerünk, a görgővel tudunk
+  ráközelíteni a térképre. Ha laptopot használunk, zoomolhatunk a 
+  a képernyő bal felső részén található csúszkával is. A bal egérgombbal
+  húzogathatjuk a csúszkát jobbra és balra.
 
   ![Scale bar][]
 
-- Look at the sample map. There a few different types of objects here.
-  There is a river, a forest, some buildings, several roads, and a
-  couple of shops. To select an object, click on it with your left
-  mouse button.
+- Tekintsük át a mintatérképet. Több különböző dolog van feltűntetve.
+  Látunk egy folyót, erdőt, néhány épületet, több utat, és néhány
+  boltot. Egy objektum kiválasztásához, kattintsunk rá a bal
+  egérgombbal.
 
-### Points, Lines, and Shapes
+### Pontok, vonalak, alakzatok
 
 - As you click different objects on the sample map, notice that there
   are three different types of objects on the map. There are points,
