@@ -119,13 +119,11 @@ Rajzolási alapok JOSM-ben
 
 ### Pontok, vonalak, alakzatok
 
-- As you click different objects on the sample map, notice that there
-  are three different types of objects on the map. There are points,
-  lines, and shapes.
-- Points are a single location, represented by symbols. On this sample
-  map, there are two points, a shoe shop and a supermarket. The
-  shoe shop is represented by a shoe symbol, and the market is
-  represented by a shopping cart.
+- Ha rákkatintasz a külöböző objektumokra, látszik, hogy három különböző
+  típusból állnak. Vannak pontok, vonalak és alakzatok.
+- Egy pont egy helyet jelöl, amit egy szimbólum is reprezentál. Ezen a térképen
+  két pont található, egy cipőbolt és egy szupermarket. A cipőboltot egy
+  cipő szimbólum jelképezi, a szupermarketet pedig egy bevásárlókocsi jelöli.
 - There are several lines on the map as well, which represent roads.
   If you look closely you will see that within the lines, there are
   points as well. These points don’t have any symbols or other
