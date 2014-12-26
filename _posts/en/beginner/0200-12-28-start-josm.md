@@ -124,16 +124,14 @@ Rajzolási alapok JOSM-ben
 - Egy pont egy helyet jelöl, amit egy szimbólum is reprezentál. Ezen a térképen
   két pont található, egy cipőbolt és egy szupermarket. A cipőboltot egy
   cipő szimbólum jelképezi, a szupermarketet pedig egy bevásárlókocsi jelöli.
-- There are several lines on the map as well, which represent roads.
-  If you look closely you will see that within the lines, there are
-  points as well. These points don’t have any symbols or other
-  information associated with them, but they help to define where the
-  line is located.
-- Lastly, there are numerous shapes on the sample map, representing
-  different places - a forest, a river, a park, and buildings. A shape
-  is used to represent an area, like a field or a building. A shape is
-  exactly like a line - the only difference is that the line begins at
-  the same point where it ends.
+- Több vonal is látható a térképen, amik utakat jelképeznek.
+  Ha megnézed közelebből, láthatod, hogy a vonalakon belül 
+  pontok is vannak. Ezeken nincs szimbólum vagy egyb plusz információ,
+  arra szolgálnak, hogy meghatározzák a vonal helyzetét.
+- Végül különböző alakzazokat is találunk a mintatérképen, amelyek helyeket
+  reprezenzálnak - erdőt, folyót, parkot, épületeket. Az alakzatok területeket jelölnek, 
+  mint például egy mező vagy egy épület. Az alakzat gyakorlatilag egy vonal,
+  azzal a különbséggel, hogy ugyanabban a pontban végződik, mint ahol kezdődik.
 
 > It's easy to think of a map as containing these three basic types of objects - 
 > points, lines, and shapes. In OpenStreetMap there is special terminology
