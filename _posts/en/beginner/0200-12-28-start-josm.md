@@ -133,24 +133,23 @@ Rajzolási alapok JOSM-ben
   mint például egy mező vagy egy épület. Az alakzat gyakorlatilag egy vonal,
   azzal a különbséggel, hogy ugyanabban a pontban végződik, mint ahol kezdődik.
 
-> It's easy to think of a map as containing these three basic types of objects - 
-> points, lines, and shapes. In OpenStreetMap there is special terminology
-> which you will come to learn as you progress. In OSM, points are actually called
-> **nodes**, and lines are called **ways**. A shape is called a **closed way**
-> because it is just a line that ends at the same point where it begins.
+> Könnyű úgy felfogni a térképet, mint ami ezt a három alap objektumfajtát
+> tartalmazza - pontokat, vonalakat és alakzatokat. Az OpenStreetMap egy külön
+> terminológiát használ, amit idővel megszokik az ember. Az OSM-ben a pontokat
+> **nodes**-oknak, a vonalakat **ways**-nek hívják. Az alakzatokat **closed way**-nek
+> hívják, mert valójában egy vonal, amely abban a pontban végződik, ahonnan indul.
 
-- You may notice that when you select an object, a list appears to the
-  right of the map in a window called “Properties”. These are known as
-  tags. Tags are information that is tied to a point, line or shape
-  that describes what it is. We’ll learn more about tags in a later
-  chapter. For now all you need to know is that this
-  information helps describe whether our object is a forest, a river,
-  a building, or something else.
-- Think about drawing a map by hand, and how you are also drawing
-  points, lines, and shapes. What other places are best represented by
-  points? Lines? Shapes?
+- Megfigyelhetted, hogy amikor kiválasztasz egy objektumot, egy lista
+  jelenik meg a térképtől jobbra. A listéban lévő elemeket hívjuk címkéknek,
+  vagy tageknek. A címkék a ponthoz, vonalhoz vagy alakhathoz tartozó, 
+  azokat leíró információkat hordozzák. Egy későbbi fejezetben még lesz
+  szó ezekről. Egyelőre annyit fontos megjegyezni, hogy ezek az információk
+  írják le, hogy az adott objektum egy erdő, folyó, épület vagy valami más.  
+- Képzeld el, hogy kézzel rajzolsz egy térképet pontokból, vonalakból,
+  alakzatokból. Milyen helyeket ábrázolnál pontokkal? Milyeneket vonalakkal,
+  alakzatokkal?
 
-### Changing Objects
+### Objektumok változtatása
 
 - Select the forest on the left side of the map. Be sure to click on
   the line around the forest, not one of the points on the line. Now
