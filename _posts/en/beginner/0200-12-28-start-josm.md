@@ -151,84 +151,80 @@ Rajzolási alapok JOSM-ben
 
 ### Objektumok változtatása
 
-- Select the forest on the left side of the map. Be sure to click on
-  the line around the forest, not one of the points on the line. Now
-  hold your left mouse button down and drag your mouse. You should be
-  able to move the forest to a new location on the map.
-- Click on one of the points on the line around the forest. Hold your
-  left mouse button down and drag your mouse. You should be able to
-  move the point. This is how you can change the shape of an object,
-  or move a point.
+- Válaszd ki a térlép bal oldalán az erdőt. Ügyelj rá, hogy az 
+  erdő körvonalára kattints, és ne a vonalon lévő pontokra. 
+  Tartsd nyomva a bal egérgombot, és mozgasd az egeret. Így át tudod 
+  mozgatni az erdőt egy új helyre a térképen.
+- Kattints az egyik pontra az erdő körvonalán. Tarts lenyomva a bal
+  egérgombot, majd mozgasd az egeret. Így az adott pontot tudod mozgatni.
+  Ezzel tudod változtni az adott objektum formáját vagy a pont helyét.
 
-### Drawing
+### Rajzolás
 
-- On the left side of JOSM is a column of buttons. Many of these
-  buttons open new windows on the right side that provide more
-  information about the map. The most important buttons, however, are
-  at the top of these column. These buttons change what you can do
-  with your mouse.
-- The top buttons in this column are the ones you will use the most.
-  They are used for selecting objects and for drawing new ones.
-- Until now, you have been using the Select tool, which looks like
-  this:
+- A JOSM bal oldalán egy oszlopban gombok láthatók. Ezekből több új
+  ablakot nyit meg a jobb oldalon, ami információkkal szolgál a 
+  térképről. A legfontosabbak mégis az oszlop tetején lévők. Ezek
+  határozzák meg, mit csinálsz az egérrel.
+- Az oszlop felső gombjait fogod a leggyakrabban használni. Ezekkel
+  vélaszthatjuk ki objektumokat, illetve rajzolhatsz újakat.
+- Mostanáig a Kiválasztás-gombot használtad, ami így néz ki:
 
   ![Select tool][]
 
-- Before you draw, you need to make sure that nothing is selected.
-  Click in the black space on the map, where it is empty, to make sure
-  nothing is selected.
-- Click on the second button, the Draw tool.
+- Mielőtt rajzolnál, győződj meg róla, hogy semmi sincs kiválasztva.
+  Kattints a térkép fekete részére, ami üres, így biztos nem
+  lesz semmi kiválasztva
+- Kattints a második gombra, a Rajzolás-eszközre.
 
   ![Draw tool][]
 
-- Find an empty area on the map, and double-click with your mouse.
-  This will draw a single point.
-- To draw a line, single-click with your mouse. Move your mouse and
-  click again. Continue until you are happy with your line. To end the
-  line, double-click your mouse.
-- Draw a shape the same way that you draw a line, but finish the shape
-  by double-clicking on the point where you started the line.
+- Keress egy üres területet a térképen, és kattints ide duplán az egérrel.
+  Ez egy önálló pontot fog rajzolni.
+- Vonal rajzolásához kattints egyszer az egérrel. Mozgasd el az egeret, és
+  kattints ismét, majd folytasd, amíg elégedett vagy a vonaladdal.
+  A vonal lezárásához kattints duplán.
+- Ugyanúgy tudsz alakzazokat rajzolni, mint  vonalat, befejezéskor
+  pedig arra a pontra kell dupőlán kattintani, ahonnan indultál.
 
-### Add Presets
+### Címkék hozzáadása
 
-- Now we know how to draw points, lines and shapes, but we still
-  haven’t defined what they represent. We want to be able to say that
-  our points are shops, schools, or something else, and whether our
-  shapes are fields, buildings, or something else.
-- Click on the Select tool, in the column of buttons on the left.
-
+- Már tudjuk hogy kell pontokat, vonalakat és alakzatokat rajzolni,
+  de nem tudjuk megadni, mit jelképeznek. Márpedig szükséges jelezni,
+  hogy a pontjaink boltok, iskolák, stb., hogy az alakzatok mezők,
+  épületek vagy bármi más.
+- Kattints a Kiválasztás-gombra a baloldali oszlopban.
+ 
   ![Select tool][]
 
-- Select one of the objects that you drew with the Draw tool. On the
-  top menu, click “Presets”. Move your mouse through the sub-menu to
-  the type of location you would like to define.
-- When you click on a preset, a form will pop up asking you for more
-  information. You do not have to fill in every field, but you may
-  wish to add some of the important fields, such as the name of the
-  object.
-- When you are finished entering the information, click “Apply
-  Preset”. If everything went well, your point, line, or shape should
-  change colors or show a symbol. This is because you have defined
-  what it is.
+- Válaszd ki az egyik imént rajzolt objektumot. A felső menüből
+  kattints a Címkékre. Válaszd ki az almenükből azt, amelyikkel szeretnéd
+  leírni a helyet.
+- Ha rákattintasz egy címkére, akkor egy űrlap fog felugrani, ahol
+  még több információt tudsz megadni. Nem kötelező minden mezőt kitölteni,
+  de a fontosabbakat érdemes, például az objektum nevét.
+- Amikor végeztél az információ bevitelével, kattints a 
+  Címke alkalmazása gombra. Ha minden jól ment, akkor a kiválasztott
+  pont, vonal vagy alakzat színe megváltozik vagy egy szimbólum 
+  jelenik meg rajta. Ez azért van, mert definiáltad, mi is az.
 
-Draw Your Own Map
+Rajzold meg a saját térképed
 -----------------
 
-- Now let’s draw a map in order to practice the techniques you have
-  learned. You may wish to redraw the map that you drew on paper previously.
-- Drag the map away from the sample map. Hold the right mouse button
-  and drag your mouse, until you have a nice empty area to draw on.
-- Use the Draw tool to create points, lines, and shapes. Describe what
-  your objects are by selecting from the Presets menu.
-- When you are finished, you should have your own map, similar to the
-  sample map that we opened in sample.osm.
+- Most rajzoljunk egy térképet, hogy gyakorolhassuk az eddig tanultakat.
+  Újrarazolhatod akár az előzőleg papírra rajzolt térképet is.
+- Mozgasd el a látott területet a mintatérképtől. Tartsd nyomva a jobb
+  egérgombot, és mozgasd az egered addig, amíg egy üres felület van
+  előtted, amire rajzolhatsz. 
+- Használd a Rajzolás-eszközd, hogy pontokat, vonalakat, alakzatokat
+  hozz létre. Definiáld ezeket címkék hozáadásával.
+- A végére lesz egy saját térképed, hasonló mint sample.osm mintatérképe.
 
-Summary
+Összegzés
 -------
 
-Excellent! If all went well you have learned how to setup JOSM on your
-computer, and the basic tools for drawing maps. In the next chapter we will
-take a closer look at the process of editing the OSM map with JOSM.
+Kiváló! Ha minden jól ment, megtanultad, hogy kell telepíteni és beállítani a 
+JOSM-et, és használni az alap rajzolási eszközöket. A következő fejezetben
+közelebbről is megnézzük a JOSM-es térképszerkesztést.
 
 
 [JOSM website]: /images/en/beginner/03_start-josm/en_beg_03_start-josm_image00_josm-website.png
